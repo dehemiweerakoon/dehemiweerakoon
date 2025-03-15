@@ -47,6 +47,14 @@
 
 ---
 
+### 📌 **Recent GitHub Activity**
+<!-- Activity Graph -->
+<p align="center">
+  [![GitHub Skyline](https://skyline.github.com/dehemiweerakoon/2024)](https://skyline.github.com/dehemiweerakoon/2024)
+
+</p>
+
+---
 ### 🌐 **Connect with Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/dehemi-w-80a191246/">
