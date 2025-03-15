@@ -1,12 +1,23 @@
 name: Update GitHub Activity
 on:
   schedule:
-    - cron: "0 * * * *" # Updates every hour
+    - cron: "0 * * * *" # Runs every hour
   workflow_dispatch:
+
 jobs:
   update-activity:
     runs-on: ubuntu-latest
     steps:
-      - uses: dehemiweerakoon/github-activity-readme@master
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      
+      - name: Generate GitHub Activity
+        uses: Readme-Workflows/recent-activity@main
         with:
-          COMMIT_MSG: "Updating recent GitHub activity"
+          CONFIG_FILE: "activity-config.yml"
+
+      - name: Commit and push changes
+        uses: mikepenz/action-gh-pages@v3
+        with:
+          commit_message: "Updated recent activity"
+          branch: main
