@@ -25,6 +25,39 @@
    <img src="https://skillicons.dev/icons?i=mongo,typescript,dotnet" />
 </p>  
 
+---
+
+## 🚀 Top Projects  
+
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+  </tr>
+  <tr>
+    <td><b>POS System</b></td>
+    <td>A Point of Sale system for retail management.</td>
+    <td><code>Spring Boot</code>, <code>React</code>, <code>MySQL</code></td>
+  </tr>
+  <tr>
+    <td><b>Movie Recommendation App</b></td>
+    <td>Recommends movies using NLP & IMDb API.</td>
+    <td><code>Python</code>, <code>NLTK</code>, <code>Vector Similarity</code></td>
+  </tr>
+  <tr>
+    <td><b>Student Marking System</b></td>
+    <td>A student grading system with Vite & React.</td>
+    <td><code>React</code>, <code>Vite</code>, <code>Bootstrap</code></td>
+  </tr>
+  <tr>
+    <td><b>Library Management System</b></td>
+    <td>Tracks books, users, and loans.</td>
+    <td><code>C#</code>, <code>ASP.NET</code>, <code>SQL Server</code></td>
+  </tr>
+</table>
+---
+
 
 ### 🚀 **GitHub Stats & Activity**  
 
