@@ -46,15 +46,6 @@
 
 
 ---
-
-### 📌 **Recent GitHub Activity**
-<!-- Activity Graph -->
-<p align="center"></p>
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)
-
-
-
----
 ### 🌐 **Connect with Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/dehemi-w-80a191246/">
@@ -73,13 +64,3 @@
 🔥 **_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_**  
 
 ---
-
-## 📌 **Step 2: Add Animated & Interactive Elements**
-To get the interactive features working, use these services:  
-✅ **Typing Effect:** [`readme-typing-svg`](https://github.com/DenverCoder1/readme-typing-svg)  
-✅ **GitHub Stats & Streaks:** [`github-readme-stats`](https://github.com/anuraghazra/github-readme-stats)  
-✅ **Trophies:** [`github-profile-trophy`](https://github.com/ryo-ma/github-profile-trophy)  
-✅ **Activity Graph:** [`github-readme-activity-graph`](https://github.com/Ashutosh00710/github-readme-activity-graph)  
-✅ **Skill Icons:** [`skillicons.dev`](https://skillicons.dev/)  
-
-Would you like me to modify or add any additional animations? 🚀🔥
