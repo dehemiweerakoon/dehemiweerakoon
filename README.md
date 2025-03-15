@@ -48,9 +48,7 @@
 
 ### 📌 **Recent GitHub Activity**
 <!-- Activity Graph -->
-<p align="center">
-  ![GitHub Recent Activity](https://github.com/dehemiweerakoon/dehemiweerakoon/blob/main/assets/recent-activity.svg)
-</p>
+![GitHub Recent Activity](https://github.com/dehemiweerakoon/dehemiweerakoon/blob/main/assets/recent-activity.svg)
 
 
 ---
