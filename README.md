@@ -49,7 +49,7 @@
 ### 📌 **Recent GitHub Activity**
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dehemiweerakoon&theme=github-dark&hide_border=true" />
+  ![GitHub Recent Activity](https://github.com/dehemiweerakoon/dehemiweerakoon/blob/main/assets/recent-activity.svg)
 </p>
 
 
