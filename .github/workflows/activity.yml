@@ -7,6 +7,6 @@ jobs:
   update-activity:
     runs-on: ubuntu-latest
     steps:
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: dehemiweerakoon/github-activity-readme@master
         with:
           COMMIT_MSG: "Updating recent GitHub activity"
