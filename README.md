@@ -32,9 +32,6 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=dehemiweerakoon&show_icons=true&theme=radical" width="400"/>
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dehemiweerakoon&theme=radical" width="400"/>
-    </td>
   </tr>
 </table>
 
