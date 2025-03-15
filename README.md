@@ -50,8 +50,7 @@
 ### 📌 **Recent GitHub Activity**
 <!-- Activity Graph -->
 <p align="center">
-  [![GitHub Skyline](https://skyline.github.com/dehemiweerakoon/2024)](https://skyline.github.com/dehemiweerakoon/2024)
-
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dehemiweerakoon)](https://github.com/dehemiweerakoon/github-readme-activity-graph)
 </p>
 
 ---
