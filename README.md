@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
-  Hi there, I'm [Your Name] 👋  
+  Hi there, I'm Dehemi Weerakoon 👋  
 </h1>
 
 <!-- Typing Effect -->
@@ -11,9 +11,9 @@
 
 ### 🌟 **About Me**
 🎓 Computer Science Student at **University of Kelaniya, Sri Lanka**  
-💻 Currently working on **POS System using Spring Boot & MySQL**  
+💻 Currently working on **Data Science Projects**  
 🛠️ Building a **Movie Recommendation System with NLP & Vector Similarity**  
-🌱 Learning **Advanced Data Structures, Graph Theory, and Backend Development**  
+🌱 Learning **Advanced Data Structures, Data Science, and Backend Development**  
 ⚡ Fun Fact: I love watching **anime** and exploring new **tech stacks**  
 
 ---
@@ -30,10 +30,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=dehemiweerakoon&show_icons=true&theme=radical" width="400"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="400"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dehemiweerakoon&theme=radical" width="400"/>
     </td>
   </tr>
 </table>
@@ -44,7 +44,7 @@
 
 ### 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=false&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dehemiweerakoon&theme=radical&no-frame=false&margin-w=10" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ### 📌 **Recent GitHub Activity**
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dehemiweerakoon&theme=github-dark&hide_border=true" />
 </p>
 
 ---
