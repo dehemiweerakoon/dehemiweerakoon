@@ -21,7 +21,7 @@
 ### ⚙️ **Tech Stack & Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,python,mysql,django,mysql,docker,git,postman" />
-</p>
+</p>  
 
 ---
 
@@ -49,9 +49,10 @@
 
 ### 📌 **Recent GitHub Activity**
 <!-- Activity Graph -->
-<p align="center">
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dehemiweerakoon)](https://github.com/dehemiweerakoon/github-readme-activity-graph)
-</p>
+<p align="center"></p>
+ ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dehemiweerakoon&show_icons=true&theme=radical)
+
+
 
 ---
 ### 🌐 **Connect with Me**
