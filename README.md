@@ -20,7 +20,7 @@
 
 ### ⚙️ **Tech Stack & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,python,mysql,django,mysql,mongo,dotnet" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,python,mysql,django,c,django,mongo,dotnet" />
   <br/>
    <img src="https://skillicons.dev/icons?i=docker,git,postman,kubernetes,go,typescript" />
 </p>  
